@@ -44,7 +44,7 @@ function processFile(filePath) {
 
     // Perform replacements
     const updatedData = data
-      .replace(/Matrik/g, 'Green North')
+      .replace(/Green North/g, 'Green North')
       .replace(/matrik/g, 'green-north');
 
     // Only write if changes were made

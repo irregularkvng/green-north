@@ -21,15 +21,15 @@
     --title-color2: #234F40;
     --title-color2-opc: 35, 79, 64;
     --text-color: #00000099;
-    --primary-color1: #CB0000;
-    --primary-color1-opc: 203, 0, 0;
-    --primary-color2: #FB521E;
-    --primary-color2-opc: 251, 82, 30;
-    --primary-color3: #8ABC46;
+    --primary-color1: #07a606;
+    --primary-color1-opc: 7, 166, 6;
+    --primary-color2: #07a606;
+    --primary-color2-opc: 7, 166, 6;
+    --primary-color3: #07a606;
     --primary-color3-opc: 138, 188, 70;
     --primary-color4: #234F40;
     --primary-color4-opc: 35, 79, 64;
-    --primary-color5: #233AFF;
+    --primary-color5: #07a606;
     --primary-color5-opc: 35, 58, 255;
     --borders-color: #eee
 }
@@ -11763,7 +11763,7 @@ header.style-4 .mobile-logo-area .menu-close-btn:hover i {
 }
 
 .footer-top-banner-section.three {
-    background-image: url(/_next/static/media/footer-top-banner-bg.d500d67e.png), linear-gradient(180deg, #FB521E, #FB521E);
+    background-image: url(/_next/static/media/footer-top-banner-bg.d500d67e.png), linear-gradient(180deg, #07a606, #07a606);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 90px 0
@@ -26734,7 +26734,7 @@ header.style-4 .mobile-logo-area .menu-close-btn:hover i {
 }
 
 .home6-about-section .about-content .experience-area h2 {
-    background: linear-gradient(180deg, #000000, #233AFF 50%, #000000);
+    background: linear-gradient(180deg, #000000, #07a606 50%, #000000);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -28473,7 +28473,7 @@ header.style-4 .mobile-logo-area .menu-close-btn:hover i {
     width: 65px;
     height: 65px;
     border-radius: 50%;
-    background-color: rgba(203, 0, 0, .3);
+    background-color: rgba(7, 166, 6, .3);
     display: flex;
     align-items: center;
     justify-content: center;
